@@ -26,7 +26,6 @@ env/
 *.h5
 *.hdf5
 *.keras
-*.pth
 *.pt
 *.ckpt
 *.onnx
